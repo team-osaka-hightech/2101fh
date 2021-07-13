@@ -5,7 +5,7 @@
 
 1. 以下の文書の内容をそのまま記述してください（クリックすると大きな画像が表示されます）。
 
-[![こちらの文書](/images/2021fs-robo/doc.png)](/images/2021fs-robo/doc.png)
+[![こちらの文書](/images/doc.png)](/images/doc.png)
 
 #### 参考
 以下の手順になります。
